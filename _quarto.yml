@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "VEPT Quarterly PMT Reports"
+  title: ""
 
 format:
   html:
