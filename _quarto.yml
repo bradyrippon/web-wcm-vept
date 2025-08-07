@@ -3,10 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "web-vept"
-  navbar:
-    left:
-      - href: index.qmd
+  title: "VEPT Quarterly PMT Reports"
 
 format:
   html:
